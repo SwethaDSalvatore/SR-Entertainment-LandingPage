@@ -15,5 +15,5 @@ https://github.com/SwethaDSalvatore/SR-Entertainment-LandingPage.git
 
 ---
 ### Please Note :
-This is not an official website its just an sample template created for project purposes given at Cyberdude Networks Intenship programme.
+This is not an official or actual landing page, its just an sample template created for project purposes given by Cyberdude Networks Intenship programme.
 ---
