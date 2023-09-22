@@ -9,7 +9,7 @@ https://github.com/SwethaDSalvatore/SR-Entertainment-LandingPage.git
 | **License** |MIT  |
 | **Stacks** |HTML & Bootstap  |
 | **Author** |Swetha |
-| **Live Link** | [Click Here](https://swethadsalvatore.github.io/Swetha-Printers-Website/)|
+| **Live Link** | [Click Here](https://swethadsalvatore.github.io/SR-Entertainment-LandingPage/)|
 | **Mobile Responsive** | Yes |
 
 
